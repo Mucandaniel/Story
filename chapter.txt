@@ -1,1 +1,1 @@
-Hello, everyone. We are learning about Git and version control today.
+We are currently on our secondary branch.
